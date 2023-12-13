@@ -11,4 +11,13 @@ public class TEST {
 		return this.message;
 	}
 
+	public void messageTest(){
+
+		String msg = "";
+
+		msg = getMessge();
+
+		System.out.println(msg);
+	}
+
 }
