@@ -9,6 +9,7 @@ public class TEST_231213 {
         if(a > b){
             System.out.println("<");
             System.out.println("commit");
+            System.out.println("rollback");
         }
     }
 }
